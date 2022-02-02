@@ -1,4 +1,4 @@
-RuleSet: actionOperationCareCouminication(number)
+RuleSet: actionOperationCareCommunication(number)
 * test[+].id = "CC-{number}" //TODO change name
 * test[=].name = "{number} Post CareCommunication" //TODO change name
 * test[=].description = "Post new CareCommunication message"  //TODO change name

@@ -9,4 +9,4 @@ InstanceOf: TestScript
 * description = "Testing if a new CareCommunication Bundle is correct created" //TODO change name
 
 //*2nd documentation phase*/
-* insert  CreateCareCommunicationTest( 1, /FHIRSandbox/MedCom/401-CareCommunication/CareCommunicationFixture.xml) //TODO change name
+* insert  NewCareCommunicationTest( 1, /FHIRSandbox/MedCom/401-CareCommunication/CareCommunicationFixture.xml) //TODO change name

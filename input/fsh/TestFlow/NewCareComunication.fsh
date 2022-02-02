@@ -1,9 +1,9 @@
-//Second documentation phase. Check: citizen, same CaseNumber
-RuleSet: CreateCareCommunicationTest(number, fixture) //TODO change name
+//To test a new CareCommunication message
+RuleSet: NewCareCommunicationTest(number, fixture) //TODO change name
 * insert originClient
 * insert destinationServer
 * insert fixtureCareCommunication({number}, {fixture})
-* insert actionOperationCareCouminication({number})
+* insert actionOperationCareCommunication({number})
 * insert profileCareCommunication
 
 //validation
@@ -11,4 +11,4 @@ RuleSet: CreateCareCommunicationTest(number, fixture) //TODO change name
 
 * insert testMessageHeaderEventCoding
 * insert testSenderOrganization
-
+* insert testReceiverOrganization
