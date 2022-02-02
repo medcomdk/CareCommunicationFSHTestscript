@@ -1,10 +1,10 @@
 //Second documentation phase. Check: citizen, same CaseNumber
-//RuleSet: CreateCAreCommunicationTest(number, fixture) //TODO change name
+//RuleSet: CreateCareCommunicationTest(number, fixture) //TODO change name
 //* insert originClient
 //* insert destinationServer
 //* insert fixtureFfb({number}, {fixture})
-//* insert actionOperationCAreCouminication({number})
-//* insert profileCareCouminication
+//* insert actionOperationCareCouminication({number})
+//* insert profileCareCommunication
 //
 ////validation
 ////* insert validation
