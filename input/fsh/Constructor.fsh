@@ -10,3 +10,4 @@ InstanceOf: TestScript
 
 //*2nd documentation phase*/
 * insert  NewCareCommunicationTest( 1, /FHIRSandbox/MedCom/401-CareCommunication/CareCommunicationFixture.xml) //TODO change name
+* insert  MustSupportCareCommunicationTest( 2, /FHIRSandbox/MedCom/401-CareCommunication/CareCommunicationFixture.xml) //TODO change name
