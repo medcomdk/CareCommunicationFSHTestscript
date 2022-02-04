@@ -5,6 +5,7 @@ RuleSet: MustSupportCareCommunicationTest(number, fixture) //TODO change name
 * insert fixtureCareCommunication({number}, {fixture})
 * insert actionOperationCareCommunication({number})
 * insert profileCareCommunication
+* insert validateCareCommunication
 
 //Validation of MustSupport
 //The MedComCorePatient instance
